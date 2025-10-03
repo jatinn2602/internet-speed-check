@@ -1,6 +1,6 @@
 # Internet Speed Test App
 
-![App Screenshot](screenshot.png) <!-- Add a screenshot of your app here -->
+![App Screenshot](App_Screenshot.png) <!-- Add a screenshot of your app here -->
 
 A **Python-based GUI application** to test your internet speed in real-time. This app provides **download, upload, and ping metrics** along with a visually appealing **speedometer animation**. Built with `Tkinter` and `speedtest-cli`, it offers an interactive and modern interface for checking your network performance.
 
@@ -33,4 +33,5 @@ A **Python-based GUI application** to test your internet speed in real-time. Thi
 ```bash
 git clone https://github.com/yourusername/internet-speed-test.git
 cd internet-speed-test
+
 
